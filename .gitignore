@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Ignore PyCharm created files
+*.xml
+*.iml
